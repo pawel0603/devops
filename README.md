@@ -7,5 +7,5 @@ This was my first attempt to build and deploy application to Microsoft Azure. Si
 https://devops-intership.azurewebsites.net/
 Sorry that I'm sending this on the last day of intership challenge and thank you for giving me an opportunity to become an intern.
 
-Regards\n
+Regards
 Paweł Sowierszenko
